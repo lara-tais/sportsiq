@@ -3,8 +3,7 @@
 __pycache__/
 venv/
 env/
-*.sqlite
-
+≈
 # Dependency directories
 /.venv/
 /.idea/
